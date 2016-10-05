@@ -1,0 +1,69 @@
+diff --git a/master:terzo-action-plan-italia/actions/azione1.txt b/actionplan-in-consultazione:terzo-action-plan-italia/actions/azione1.txt
+index 90ddfc8..e2a343f 100644
+--- a/master:terzo-action-plan-italia/actions/azione1.txt
++++ b/actionplan-in-consultazione:terzo-action-plan-italia/actions/azione1.txt
+@@ -1,18 +1,16 @@
+ Agenda Nazionale partecipata per la valorizzazione del patrimonio informativo pubblico
+-
++		
+ Descrizione breve
+-Implementare l'Agenda nazionale per la valorizzazione del patrimonio informativo pubblico, quale documento di pianificazione e definizione di una strategia in materia di dati aperti. 
+-Considerato il quadro di indirizzo strategico e l’attuale contesto normativo detta Agenda costituisce parte integrante del “Piano triennale per l’ICT della Pubblica Amministrazione” dove si prevedono, con riferimento ai dati della PA, azioni specifiche attinenti: i) Basi dati di interesse nazionale, ii) Condivisione dei dati tra pubbliche amministrazioni e iii) Riutilizzo dei dati pubblici (Open data). In particolare, lo strumento di riferimento per gli Open data sarà rappresentato dal “Paniere dinamico di dataset” (aggiornabile di anno in anno) attraverso il quale sono individuate le basi di dati che le amministrazioni renderanno disponibili a partire dal 2016 in poi. Tale paniere indirizzerà quindi l’azione delle amministrazioni per l’effettiva apertura dei dataset tenendo altresì conto degli obiettivi e dei dataset individuati o concordati nel contesto dell’OGP. 
++Implementare l'Agenda nazionale per la valorizzazione del patrimonio informativo pubblico 2017, contenente i dati che le amministrazioni devono pubblicare in formato aperto, attraverso un percorso partecipato dalla società civile e condiviso con amministrazioni centrali e locali.
+ 
+ Obiettivo generale
+ Accrescere la disponibilità, la fruibilità, le modalità di accesso e di riutilizzo dei dati delle pubbliche amministrazioni, inclusi quelli presenti nelle basi dati di interesse nazionale, per perseguire con efficacia l’obiettivo di una complessiva valorizzazione del patrimonio informativo pubblico.
+ 
+ Amministrazione responsabile
+ AGID
+-(Gabriele Ciasullo – Francesco Tortorelli)
+ 
+ Altre PA coinvolte
+-PA Centrali, Regioni, ANCI, Comune di Messina
++ANCI, Regioni, PA centrali
+ 
+ Altri soggetti coinvolti
+ Open Government Forum
+@@ -20,12 +18,10 @@ Open Government Forum
+ Periodo di attuazione
+ 2016-2018
+ 
+-Azione nuova
+-
+-Inizio attività Settembre 2016
++Azione Nuova
+ 
+ Situazione attuale
+-Nonostante le sollecitazioni della società civile, non tutti i dataset indicati nell’Agenda 2013 e 2014 sono stati rilasciati. Al 31 dicembre 2015 è stato effettuato un monitoraggio le cui risultanze, già disponibili sul portale Network ot11/ot2, saranno pubblicate anche su dati.gov.it.
++L'ultima Agenda nazionale per la valorizzazione del patrimonio informativo pubblico risale al 2014, tuttavia non tutti i dataset indicati e sono stati rilasciati malgrado l’esplicitazione di un preciso cronoprogramma.
+ 
+ Risultati attesi
+ Accresciuta soddisfazione della domanda di dataset strategici e reale possibilità di rilascio in tempi brevi dei principali dataset relativi settori più rilevanti (quali salute, energia, educazione, giustizia, ambiente, welfare, infrastrutture, dati territoriali, ecc.)
+@@ -33,20 +29,20 @@ Nella definizione dei dataset che le amministrazioni pubblicheranno sarà data p
+ 
+ IMPEGNI SPECIFICI E TIMELINE
+ 
+-1.Consultazione società civile e Open Government Forum, per l’individuazione dei dataset da inserire nel “Paniere”, previo confronto con le amministrazioni competenti per la necessaria condivisione
++1.Consultazione società civile e Open Government Forum.
+ 
+-Novembre 2016 (aggiornamento annuale)
++Dicembre 2017
+ 
+ Impegno nuovo
+ 
+-2.Rilascio dell’Agenda Nazionale per la valorizzazione del patrimonio informativo pubblico nell’ambito del Piano triennale per l’ICT della Pubblica Amministrazione attraverso la definizione del “Paniere dinamico di dataset” da rendere disponibile in open data
++2.Rilascio dell’Agenda Nazionale per la valorizzazione del patrimonio informativo pubblico 2017
+ 
+-Dicembre 2016 (aggiornamento annuale)
++Febbraio 2017
+ 
+ Impegno nuovo
+ 
+ 3.Monitoraggio dell'effettivo rilascio dei dataset segnalati nell'Agenda attraverso incontri periodici con le amministrazioni coinvolte
+ 
+-Febbraio 2018 (aggiornamento annuale)
++Maggio 2018
+ 
+-Impegno nuovo
++Impegno nuovo
+\ No newline at end of file
