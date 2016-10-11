@@ -92,7 +92,7 @@ Altro elemento da inserire è l'[Azione 1](http://open.gov.it/partecipa/consulta
 <br/>
 <br/>
 
-TODO - aggiungere na news che rilanciava l'azione 1, ha del materiale da riprendere ([discussione in lista SOD](https://groups.google.com/d/msg/spaghettiopendata/yHDqSbmHiUY/OEfhzPQiDAAJ)
+TODO - aggiungere un riferimento al [blog post in open.gov.it che rilanciava l'azione 1](http://open.gov.it/2016/08/05/agenda-nazionale-open-data/): ha del materiale da riprendere ([discussione in lista SOD](https://groups.google.com/d/msg/spaghettiopendata/yHDqSbmHiUY/OEfhzPQiDAAJ))
 
 
 
