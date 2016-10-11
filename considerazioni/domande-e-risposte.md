@@ -89,7 +89,10 @@ Altro elemento da inserire è l'[Azione 1](http://open.gov.it/partecipa/consulta
 | Incentivo economico per gli enti che avrebbero pubblicato i dati, il cui finanziamento doveva essere compreso nel PON Governance ([link al commento](http://open.gov.it/partecipa/consultazioni-attive/consultazione-terzo-nap/agenda-nazionale-partecipata-per-la-valorizzazione-del-patrimonio-informativo-pubblico/#comment-156)) | Incentivazione economica: l’attuale PON Governance prevede l’attribuzione di fondi per gli open data. In tale contesto è stata attivata una specifica Area di Lavoro Condivisa per gli open data nel contesto del network ot11/ot2. È stato quindi possibile definire uno specifico protocollo di riferimento e di guida per le amministrazioni nel quale è prevista, tra l’altro, la definizione di un “Paniere di dataset ”. 
 | Sanzioni | Sanzioni: l’Agenda nazionale di fatto è espressa attraverso il Paniere che rappresenta il contenitore dei dataset chiave da rendere disponibili in open data in un determinato arco temporale. L’obbligatorietà di procedere all’apertura dei dati è espressamente prevista dal D. Lgs. 36/2006, così come modificato dal D. Lgs. 102/2015 di recepimento della direttiva PSI 2.0 (direttiva 2013/37/UE), fermi restando l’ambito di applicazione e i limiti previsti dalla stessa norma. Allo stato attuale, non sono previste sanzioni per le amministrazioni inadempienti. Si ricorda però che le amministrazioni sono tenute a motivare l’eventuale diniego di apertura dei dati a seguito di specifica richiesta degli interessati, indicando peraltro i mezzi di ricorso a disposizione del richiedente (art. 5 del citato D. Lgs. 36/2006). |
 
+<br/>
+<br/>
 
+TODO - aggiungere na news che rilanciava l'azione 1, ha del materiale da riprendere ([discussione in lista SOD](https://groups.google.com/d/msg/spaghettiopendata/yHDqSbmHiUY/OEfhzPQiDAAJ)
 
 
 
