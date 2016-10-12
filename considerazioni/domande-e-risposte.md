@@ -43,6 +43,7 @@ Le riprendiamo in maniera sintetica:
 | **Consultazione pubblica Open Data**: come premessa alla lista di dati pubblicata è presente questa nota: “ [...] non  sono  stati  inclusi  i  dati  la  cui  disponibilità  in  “open”  è  già  contemplata  da  norme  e/o altri documenti (open data charter, agenda 2014, ecc.) su cui le amministrazioni stanno lavorando [...]”. Sarebbe utile una spiegazione sul lavoro in corso che si stava intendendo, dato che la roadmap di rilascio dei tanti dati citati è stata disattesa; | | 
 | **Sito AGID**: cosa si intende per “Rapporto sullo stato di avanzamento del processo di valorizzazione del patrimonio pubblico”? <br/> E’ il terzo punto presente [in questa pagina pagina](http://www.agid.gov.it/agenda-digitale/open-data/dati-pubblici-condivisione) |  |
 | **Comitato di pilotaggio OT11/OT2**: Quali sono i criteri con cui sono stati compilati questi due panieri ([paniere 2015](http://network.ot11ot2.it/content/paniere-basi-dati-2015) e [paniere 2016](http://network.ot11ot2.it/content/paniere-basi-dati-2016))? 	|	|
+| **Comitato di pilotaggio OT11/OT2**: Ci sono dei referenti, dei responsabili e dei processi legati a questi dati? <br/> (_ci si riferisce ai due panieri 2015 e 2016_) |
 | **Comitato di pilotaggio OT11/OT2**: è possibile che la partecipazione al tavolo di Pilotaggio OT11/OT2 non sia su base volontaria ma che coinvolga tutte le Regioni (almeno), e gli enti pubblici più importanti, specie quelli che risultano più indietro nell'apertura dei dati? |	|
 | **Comitato di pilotaggio OT11/OT2**: sarebbe utile nominare anche per ogni ente pubblico un "Chief Data Officer" che "ci mette la faccia" sulle promesse fatte direttamente all’interno del comitato. 	|	|
 
@@ -77,9 +78,9 @@ _TODO_: entrare nel dettaglio delle due proposte per vedere se alcuni sotto-elem
 <br/>
 <hr/>
 
-# Durante la consultazione <br/> (agosto 2016)
+# Durante la consultazione (agosto 2016)
 
-Partiamo dalla [domanda aggregata pubblicata nella parte introduttiva](http://open.gov.it/partecipa/consultazioni-attive/consultazione-terzo-nap/presentazione-terzo-nap/#comment-393) che ha posto alcune questioni:
+Partiamo dalla [domanda aggregata pubblicata nella parte introduttiva](http://open.gov.it/partecipa/consultazioni-attive/consultazione-terzo-nap/presentazione-terzo-nap/#comment-393) che ha posto alcune questioni a livello generale:
 
 | Questione | Risposta |
 | ------------- | :-------------:|
