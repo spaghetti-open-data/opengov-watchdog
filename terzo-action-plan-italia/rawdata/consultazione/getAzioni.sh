@@ -21,7 +21,7 @@ i=1
 echo $i
 while read p; do 
     #echo $p
-    curl -s "$p" | /usr/local/bin/nadir/scrape -be "//div[@class='entry-content']/*[not(name()='table')][position()>1 and position()<last()]" | pandoc -s -r html -o "$cartella/$i.md"
+    curl -s "$p" | scrape -be "//div[@class='entry-content']/*[not(name()='table')][position()>1 and position()<last()]" | pandoc -s -r html -o "$cartella/$i.md"
 	let i=$i+1
 	# echo $i
 done < $filename
