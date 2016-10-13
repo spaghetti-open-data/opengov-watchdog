@@ -14,6 +14,8 @@ cartella="/var/evvivaBrunati"
 filename='/var/evvivaBrunati/lista.txt'
 
 # per ogni pagina listata nel file, creo un file markdown per ogni azione
+## la query regex estrae tutti gli elementi contenuti nel div[@class='entry-content'], 
+## con l'esclusione dell'oggetto table, e del primo e ultimo elemento di questo insieme
 echo Start
 i=1
 echo $i
