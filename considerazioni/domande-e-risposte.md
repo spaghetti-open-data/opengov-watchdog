@@ -150,10 +150,10 @@ Alcune domande emerse in lista SOD:
 
 | Questione | Risposta fornita dalla PA 
 | ------------- | -------------|
-| **6.1** Da ottobre si discute internamente con il tavolo su quest'azione, e poi a febbraio (entro febbraio) si rilascia l'Agenda in versione finale? E la consultazione/co-creazione pubblica con scadenza a dicembre 2017 (un tempo folle in avanti) quando si fa davvero? Abbiamo margini per imporla fin nella fase iniziale? (più come co-progettazione che come mera consultazione direi) | |
-| **6.2** Quando si pubblicano i primi set di dati dichiarati nell'agenda? Quelli che si dovrebbero pubblicare e che non dovrebbero essere oggetto di dubbi o discussioni (che sono oggetto di quei famosi benchmark internazionali come OD Barometer, etc...) li mettiamo in agenda per marzo 2017 o si va ancora avanti?
+| **6.1** Da ottobre si discute internamente con il tavolo su quest'azione, e poi a febbraio (entro febbraio) si rilascia l'Agenda in versione finale? E la consultazione/co-creazione pubblica con scadenza a dicembre 2017 (un tempo folle in avanti) quando si fa davvero? Abbiamo margini per imporla fin nella fase iniziale? (più come co-progettazione che come mera consultazione direi) | Si anticipa la consultazione nella versione finale dell'azione: **da dicembre 2017 a novembre 2016** |
+| **6.2** Quando si pubblicano i primi set di dati dichiarati nell'agenda? Quelli che si dovrebbero pubblicare e che non dovrebbero essere oggetto di dubbi o discussioni (che sono oggetto di quei famosi benchmark internazionali come OD Barometer, etc...) li mettiamo in agenda per marzo 2017 o si va ancora avanti? | Si anticipa la **fase di monitoraggio da maggio 2018 a febbraio 2018**: pare possa essere la prima milestone di rilascio quindi, assieme al rilascio dell'Agenda anticipato a dicembre 2016 (_era previsto per febbraio 2017_). |
 
-E' utile confrontare poi la versione in consultazione dell'azione 1 con la versione finale inserita nell'Action Plan:
+E' fondamentale confrontare la versione in consultazione dell'azione 1 con la versione finale inserita nell'Action Plan:
 
 * [Split view dei due file dell'azione 1 inseriti in GitHub](https://github.com/spaghetti-open-data/opengov-watchdog/commit/a7e23c5d16515fc5f1d811a58ee6d09abeaea031)
 
