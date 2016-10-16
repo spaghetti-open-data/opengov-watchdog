@@ -86,7 +86,13 @@ E' utile citare alcuni dettagli delle due proposte per capire se alcuni sotto-el
 
 ### Dettagli iniziativa "Pilota sul processo di rilascio"
 
-Tabella con obiettivi e metriche inseriti nella proposta 3.1.
+Il macro obiettivo indicato è questo:
+
+| Questione | Risposta fornite dalla PA | Note |
+| ------------- |-------------| -----|
+| **3.1.0** Il rilascio di questo insieme di dati è utile come base per documentare e testare le criticità reali presenti nel processo di apertura, da sfruttare come elemento prototipale (in logica agile) per la stesura del piano triennale di rilascio dei dati e per il suo monitoraggio complessivo nel tempo. | |
+<br/>
+Ecco invece gli obiettivi e le metriche suggerite per raggiungerlo:
 
 | Obiettivi | Metriche | Note |
 | ------------- | ----- | ----- |
@@ -99,10 +105,17 @@ Tabella con obiettivi e metriche inseriti nella proposta 3.1.
 
 ### Dettagli iniziativa "Integrazioni tra scala locale e scala nazionale per la stesura del piano triennale"
 
-TODO
+Il macro obiettivo indicato è questo:
+
+| Questione       | Risposta fornite dalla PA | Note |
+| ------------- |-------------| -----|
+| **3.2.0** - Partendo dal prototipo sul rilascio dei dati oggetto di classifiche internazionali inseriti nella Proposta 1 (_il punto 3.1_), serve intervenire sul rilascio dei dati in possesso degli enti locali, di cui sono titolari, partendo dal lavoro inserito nel report “[A nalisi istruttoria di un incentivo agli Enti Locali per il rilascio di Open Data](http://www.studiaresviluppo.it/valutazione-ex-ante-di-un-possibile-piano-dazione-comune-di-incentivo-agli-open-data-degli-enti-locali/)”. Uno degli obiettivi è individuare un set minimo di dati rilevanti su una determinata scala amministrativa (Comune, Regione, Provincia...), per completare una prima versione di un programma nazionale di rilascio degli Open Data, integrando logiche “community driven” (pratiche dell’Open Data Engagement [indicate nelle linee guida a pag.56](http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf)). | |
+<br/>
+Ecco invece gli obiettivi e le metriche suggerite per raggiungerlo:
 
 | Obiettivi | Metriche | Note |
 | ------------- | ----- | ----- |
+| **3.2.1** - Stesura co­progettata di un programma nazionale con e lenco dataset definiti di interesse, struttura e modello del dataset, metadati, frequenza e modalità di rilascio, su scala locale e centrale; roadmap triennale con aggiornamento e revisione annuale | || **3.2.2** - Diffusione di una maggior cultura del dato, del riuso di Open Data all’interno della stessa Pubblica Amministrazione e tra i portatori d’interesse nel territorio locale (differente dalla scala nazionale) | || **3.2.3** - Raccolta e riuso delle Best Practices di pubblicazione dei dati emerse negli ultimi anni su scala locale, valorizzando le esperienze spontanee, mettendole a sistema | || **3.2.4** - Mappatura del processo necessario al rilascio sostenibile di dati su scala locale, con gli attori da coinvolgere, eventuali personalizzazioni a seconda della scala e delle risorse disponibili | || **3.2.5** - Aumento della percezione sull'impatto economico e sociale di riuso degli Open Data nei territori che vada oltre la pura trasparenza | || **3.2.6** - Aggiornamento puntuale su base annuale dell’A genda Nazionale per la valorizzazione del Patrimonio Informativo Pubblico per gli anni 2016­ 2018 | || **3.2.7** - Revisione annuale del programma in maniera condivisa sia dalle PP.AA. che dalla società civile, sfruttando la mappatura delle basi di dati esistenti all’interno della PA e processi guidati dalla domanda per la scelta delle priorità | || **3.2.8** - Aumentare l’ingaggio dei cittadini e delle imprese nella domanda di dati aperti a livello centrale e locale | || **3.2.9** - Aumentare la conoscenza diffusa e la sensibilità per il riutilizzo dei dati delle società partecipate dalle PAC e PAL (a partire da [OpenPartecipate](http://openpartecipate.agenziacoesione.gov.it/) nei limiti delle prescrizioni normative introdotte recentemente dal FOIA italiano. | |
 
 <br/>
 <hr/>
@@ -127,11 +140,32 @@ Altro elemento da inserire è l'[Azione 1](http://open.gov.it/partecipa/consulta
 | **5.2** - Incentivo economico per gli enti che avrebbero pubblicato i dati, il cui finanziamento doveva essere compreso nel PON Governance ([link al commento](http://open.gov.it/partecipa/consultazioni-attive/consultazione-terzo-nap/agenda-nazionale-partecipata-per-la-valorizzazione-del-patrimonio-informativo-pubblico/#comment-156)) | Incentivazione economica: l’attuale PON Governance prevede l’attribuzione di fondi per gli open data. In tale contesto è stata attivata una specifica Area di Lavoro Condivisa per gli open data nel contesto del network ot11/ot2. È stato quindi possibile definire uno specifico protocollo di riferimento e di guida per le amministrazioni nel quale è prevista, tra l’altro, la definizione di un “Paniere di dataset ”. 
 | **5.3** - Sanzioni | Sanzioni: l’Agenda nazionale di fatto è espressa attraverso il Paniere che rappresenta il contenitore dei dataset chiave da rendere disponibili in open data in un determinato arco temporale. L’obbligatorietà di procedere all’apertura dei dati è espressamente prevista dal D. Lgs. 36/2006, così come modificato dal D. Lgs. 102/2015 di recepimento della direttiva PSI 2.0 (direttiva 2013/37/UE), fermi restando l’ambito di applicazione e i limiti previsti dalla stessa norma. Allo stato attuale, non sono previste sanzioni per le amministrazioni inadempienti. Si ricorda però che le amministrazioni sono tenute a motivare l’eventuale diniego di apertura dei dati a seguito di specifica richiesta degli interessati, indicando peraltro i mezzi di ricorso a disposizione del richiedente (art. 5 del citato D. Lgs. 36/2006). |
 | **5.4** - Nel 2015 è stato predisposto uno studio di fattibilità [questo link](http://www.studiaresviluppo.it/valutazione-ex-ante-di-un-possibile-piano-dazione-comune-di-incentivo-agli-open-data-degli-enti-locali/) con cui sono stati individuate delle tipologie di dataset che le PA locali potrebbero pubblicare, sulla base del loro interesse pubblico. [...] Non potrebbe essere questa l’occasione per riprendere lo studio di fattibilità e metterlo in pratica? ([link al commento](http://open.gov.it/partecipa/consultazioni-attive/consultazione-terzo-nap/agenda-nazionale-partecipata-per-la-valorizzazione-del-patrimonio-informativo-pubblico/#comment-156)) | | Era uno degli spunti presenti nella proposta 2 del lavoro condiviso inviato a fine giugno (punto 3.2 sopra).
-
 <br/>
-<br/>
+L'Azione 1 prevedeva nella versione pubblicata in consultazione diversi impegni specifici, con relativa timeline (data entro cui completare l'impegno). Eccoli:
 
-TODO - aggiungere un riferimento al [blog post in open.gov.it che rilanciava l'azione 1](http://open.gov.it/2016/08/05/agenda-nazionale-open-data/): ha del materiale da riprendere ([discussione in lista SOD](https://groups.google.com/d/msg/spaghettiopendata/yHDqSbmHiUY/OEfhzPQiDAAJ))
+1. Consultazione società civile e Open Government Forum - entro Dicembre 2017
+2. Rilascio dell’Agenda Nazionale per la valorizzazione del patrimonio informativo pubblico 2017 - entro febbraio 2017
+
+Alcune domande emerse in lista SOD:
+
+| Questione | Risposta fornita dalla PA 
+| ------------- | -------------|
+| **6.1** Da ottobre si discute internamente con il tavolo su quest'azione, e poi a febbraio (entro febbraio) si rilascia l'Agenda in versione finale? E la consultazione/co-creazione pubblica con scadenza a dicembre 2017 (un tempo folle in avanti) quando si fa davvero? Abbiamo margini per imporla fin nella fase iniziale? (più come co-progettazione che come mera consultazione direi) | |
+| **6.2** Quando si pubblicano i primi set di dati dichiarati nell'agenda? Quelli che si dovrebbero pubblicare e che non dovrebbero essere oggetto di dubbi o discussioni (che sono oggetto di quei famosi benchmark internazionali come OD Barometer, etc...) li mettiamo in agenda per marzo 2017 o si va ancora avanti?
+
+E' utile confrontare poi la versione in consultazione dell'azione 1 con la versione finale inserita nell'Action Plan:
+
+* [Split view dei due file dell'azione 1 inseriti in GitHub](https://github.com/spaghetti-open-data/opengov-watchdog/commit/a7e23c5d16515fc5f1d811a58ee6d09abeaea031)
+
+Ultima cosa utile da evidenziare: il [blog post pubblicato nel sito open.gov.it che spiegava alcuni dettagli dell'azione 1](http://open.gov.it/2016/08/05/agenda-nazionale-open-data/) durante la fase di consultazione è stato cambiato dopo esser stato pubblicato.
+Ne abbiamo [discusso in lista SOD](https://groups.google.com/d/msg/spaghettiopendata/yHDqSbmHiUY/OEfhzPQiDAAJ): ecco il paragrafo cambiato:
+
+>####Versione pubblicata all'inizio 
+L’Agenda nazionale per la valorizzazione del patrimonio informativo pubblico verrà aggiornata nel 2017 dopo 3 anni di stallo e sarà un’occasione per implementare la raccolta di dati aperti strategici all’interno delle pubbliche amministrazioni su tutto il territorio nazionale. L’Agenda fissa i principi cardine della strategia italiana e tre ambiti d’intervento (basi dati d’interesse nazionale, convenzioni aperte tra pubbliche amministrazioni, dati di tipo aperto). Per ognuno degli ambiti individuati sono presentati: lo scenario normativo attuale, l’impegno previsto per l’anno in corso e soprattutto gli obiettivi da raggiungere. 
+
+
+> ####Versione finale  
+Considerato il quadro di indirizzo strategico e l’attuale contesto normativo, l’Agenda nazionale per la valorizzazione del patrimonio informativo pubblico, quale documento di pianificazione e definizione di una strategia di settore, viene inevitabilmente inglobata nel “Piano triennale per l’ICT della Pubblica Amministrazione” dove si prevedono, tra le altre, azioni specifiche attinenti in tema di i) Basi dati di interesse nazionale, ii) Condivisione dei dati tra pubbliche amministrazioni e iii) Riutilizzo dei dati pubblici (Open data). <br/> In particolare, lo strumento di riferimento per gli Open data sarà rappresentato dal “Paniere dinamico di dataset” (aggiornabile di anno in anno) attraverso il quale sono individuate le basi di dati che le amministrazioni intendono rendere disponibili a partire dal 2016 in poi. Tale paniere indirizzerà quindi l’azione delle amministrazioni per la pianificazione e l’effettiva apertura dei dataset tenendo altresì conto degli obiettivi e dei dataset individuati o concordati nel contesto dell’OGP. Conseguentemente, il Paniere sarà anche la base di riferimento per le diverse azioni di monitoraggio previste nel contesto dell’accordo di partenariato, dell’articolo 52 del CAD e della Direttiva PSI.
 
 
 
