@@ -2,7 +2,7 @@ Vogliamo capire **alcuni elementi** sul terzo Action Plan italiano relativo all'
 
 1. Hanno raccolto i nostri punti di vista?
 2. In che forma?
-3. E ci sono domanda rimaste senza risposta?
+3. E ci sono domande rimaste senza risposta?
 
 In questo documento ci sono le domande fatte come [comunità SOD](http://www.spaghettiopendata.org) ordinate per ordine di tempo. Spesso queste domande sono state poste con il contributo di altri attori della società civile.
 
