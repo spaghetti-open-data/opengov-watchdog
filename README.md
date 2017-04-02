@@ -12,6 +12,6 @@ In questo repo ci sono delle sintesi e alcuni documenti utili al confronto tra q
 
 Una'infografica che dovrebbe aiutare un neofita a capire quanto sia pericoloso che il sito ufficiale dati.gov.it non mostri sempre un quadro aggiornato dei dati aperti a livello nazionale.
 
-* [Infografica in formato PNG](https://github.com/spaghetti-open-data/dati-gov-it/datigovit-timeline-integrazione-dati.png)
-* [Sorgente dell'infografica in formato SVG](https://github.com/spaghetti-open-data/dati-gov-it/datigovit-timeline-integrazione-dati.dvg) - realizzata con Inkscape 
+* [Infografica in formato PNG](https://github.com/spaghetti-open-data/opengov-watchdog/blob/master/dati-gov-it/datigovit-timeline-integrazione-dati.png)
+* [Sorgente dell'infografica in formato SVG](https://github.com/spaghetti-open-data/opengov-watchdog/blob/master/dati-gov-it/datigovit-timeline-integrazione-dati.svg) - realizzata con Inkscape 
 
