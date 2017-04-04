@@ -15,3 +15,10 @@ Una'infografica che dovrebbe aiutare un neofita a capire quanto sia pericoloso c
 * [Infografica in formato PNG](https://github.com/spaghetti-open-data/opengov-watchdog/blob/master/dati-gov-it/datigovit-timeline-integrazione-dati.png)
 * [Sorgente dell'infografica in formato SVG](https://github.com/spaghetti-open-data/opengov-watchdog/blob/master/dati-gov-it/datigovit-timeline-integrazione-dati.svg) - realizzata con Inkscape 
 
+----
+
+## approfondimenti: rapporti dati.gov.it di AGID
+
++ [Rapporto Annuale sulla Disponibilità di banche dati pubbliche in formato aperto e Paniere dinamico di dataset](http://www.dati.gov.it/content/rapporto-annuale-disponibilit-banche-dati-pubbliche-formato-aperto-paniere-dinamico-dataset)
+  + [Rapporto Annuale sulla Disponibilità di banche dati pubbliche in formato aperto, anno 2016](http://www.dati.gov.it/sites/default/files/RapportoMonitoraggio_2016%20%281%29.odt)
+  + [Paniere dinamico di dataset su base nazionale e regionale](http://www.dati.gov.it/sites/default/files/PANIERE-dataset_20170207.ods)
